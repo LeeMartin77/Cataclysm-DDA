@@ -1689,6 +1689,31 @@
   },
   {
     "type": "profession",
+    "ident": "distance_runner",
+    "name": "Distance Runner",
+    "description": "You loved running, some would even say you spent your life running from your problems. Now, you're running for your life.",
+    "points": 2,
+    "items": {
+      "both": [
+        "socks",
+        "under_armor_shorts",
+        "under_armor",
+        "tshirt",
+        "shorts",
+        "lowtops",
+        "runner_bag",
+        "sports_drink",
+        "smart_phone",
+        "wristwatch"
+      ],
+      "male": [ "briefs" ],
+      "female": [ "sports_bra", "panties" ],
+      "traits": [ "GOODCARDIO" ],
+      "skills": [ { "level": 1, "name": "dodge" } ]
+    }
+  },
+  {
+    "type": "profession",
     "ident": "bionic_runner",
     "name": "Bionic Runner",
     "description": "You were that kind of sportsman who couldn't get off the track.  You love running, and you enhanced your body to do it even better.  Now there is plenty to run from, but this is your kind of game.",
